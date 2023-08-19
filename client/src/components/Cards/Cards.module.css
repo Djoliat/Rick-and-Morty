@@ -1,0 +1,15 @@
+.Card{
+    background-image: url("C:\Users\didie\Desktop\rick_and_morty\client\img\rick-morty.png");
+    background-size: cover;
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+
+
+    
+  }
